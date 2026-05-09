@@ -1,4 +1,4 @@
-# Hi, I'm Carlos (EduJ) 🚀
+# Hi, I'm CarlosJ 🚀
 ### Automation Architect & Data Engineer | Python Specialist
 
 I help businesses eliminate manual grunt work by building robust, AI-powered automation pipelines. 
