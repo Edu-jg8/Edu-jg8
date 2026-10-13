@@ -13,6 +13,7 @@ los arreglo y lo documento todo aquí.
 |---|---|---|
 | [identity-lifecycle](https://github.com/Edu-jg8/identity-lifecycle) | Alta automática de empleados desde un CSV de RRHH: usuarios, grupos y carpetas por departamento en Linux, con registro en PostgreSQL | Fase 1 terminada · baja de usuarios en curso |
 | [universal-appointment-notifier](https://github.com/Edu-jg8/universal-appointment-notifier) | Recordatorios de citas por email a partir de un CSV (Python, SMTP) | Terminado |
+| [homelab-ad-glpi](https://github.com/Edu-jg8/homelab-ad-glpi)| Dominio Active Directory con GPO, permisos por departamento e incidencias gestionadas en GLPI | Terminado |
 
 ## Ahora mismo
 - Preparando el **CCNA** 
