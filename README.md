@@ -20,5 +20,6 @@ los arreglo y lo documento todo aquí.
 
 ## Herramientas que he usado en mis proyectos
 Linux (Ubuntu Server) · Bash · Python · PostgreSQL · Git · VirtualBox · Cisco Packet Tracer
+Windows Server · Active Directory · GPO · GLPI · PowerShell
 
 **Idiomas:** español (nativo) · inglés (B1)
